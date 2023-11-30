@@ -1,3 +1,4 @@
+![logo](https://github.com/gpratik143/gpratik143/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Pratik Gupta</h1>
 <h3 align="center">A passionate App Developer from India</h3>
 
