@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratik Gupta</h1>
-<div align="center"> <img src="https://github.com/gpratik143/gpratik143/blob/main/Github_Banner.png"> </div>
+<div align="center"> <img src="https://github.com/gpratik143/gpratik143/blob/main/github%20banner.png"> </div>
 <h3 align="center">A passionate App Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpratik143&label=Profile%20views&color=0e75b6&style=flat" alt="gpratik143" /> </p>
