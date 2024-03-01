@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratik Gupta</h1>
+# <h1 align="center">Hi 👋, I'm Pratik Gupta</h1>
 <div align="center"> <img src="https://github.com/gpratik143/gpratik143/blob/main/github%20banner.png"> </div>
 <h3 align="center">A passionate App Developer from India</h3>
 
