@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Pratik Gupta</h1>
+<h1 align="center">Hi I'm Pratik Gupta</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gpratik143&label=Profile%20views&color=0e75b6&style=flat" alt="gpratik143" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gpratik154" target="blank"><img src="https://img.shields.io/twitter/follow/gpratik154?logo=twitter&style=for-the-badge" alt="gpratik154" /></a> </p>
 
-- 🔭 I’m currently working on [Chat Application](https://github.com/gpratik143/RealTime-Chat-Application)
+-  I’m currently working on [Chat Application](https://github.com/gpratik143/RealTime-Chat-Application)
 
-- 🌱 I’m currently learning **Data Science & AI/ML**
+-  I’m currently learning **Data Science & AI/ML**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/gpratik](https://linktr.ee/gpratik)
+-  All of my projects are available at [https://linktr.ee/gpratik](https://linktr.ee/gpratik)
 
-- 📝 I regularly write articles on [gpratik276.blogspot.com](gpratik276.blogspot.com)
+-  I regularly write articles on [gpratik276.blogspot.com](gpratik276.blogspot.com)
 
-- 💬 Ask me about **C/C++, Python, Java**
+-  Ask me about **C/C++, Python, Java**
 
-- 📫 How to reach me **gpratik154@gmail.com**
+-  How to reach me **gpratik154@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
