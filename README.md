@@ -9,7 +9,7 @@
 
 -  I’m currently learning **Data Science & AI/ML**
 
--  All of my projects are available at [https://linktr.ee/gpratik](https://linktr.ee/gpratik)
+-  My Portfolio [https://gpratik143.github.io/My-Portfolio/](https://gpratik143.github.io/My-Portfolio/)
 
 -  I regularly write articles on [gpratik276.blogspot.com](gpratik276.blogspot.com)
 
