@@ -99,22 +99,6 @@ https://github.com/gpratik143/PiScan-Attendance
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gpratik143"/>
-</p>
-
----
-
-## GitHub Profile Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=gpratik143&column=6&margin-w=15&margin-h=15"/>
-</p>
-
----
-
 ## Connect
 
 - GitHub: https://github.com/gpratik143
